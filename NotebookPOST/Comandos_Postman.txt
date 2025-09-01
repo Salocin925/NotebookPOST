@@ -7,8 +7,8 @@ bdy - raw - JSON
 (info: alguns nomes são reais, mas não utilizam o valor real)
 
 {
-    "Nome": "북한",
-    "Categoria": "CHING CHONG",
+    "Nome": "notedoom",
+    "Categoria": "uso pessoal",
     "preço": 202.22
 }
 {
@@ -30,4 +30,5 @@ bdy - raw - JSON
     "Nome": "ROG Strix G16",
     "Categoria": "GAMER",
     "preço": 1999.99
+
 }
